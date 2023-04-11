@@ -1,3 +1,27 @@
+body {
+}
+
+nav.navbar {
+  background-color: transparent !important;
+}
+.navbar a {
+  color: crimson !important;
+}
 .box_p {
-  margin-left: 150px;
+  margin-left: 30px !important;
+  margin-right: 30px !important;
+  height: 30% !important;
+
+  margin-top: 150px !important;
+}
+h1.Title_text-center {
+  color: crimson !important;
+  position: absolute !important;
+  right: 37% !important;
+}
+h1.Title {
+  margin-top: 80px !important;
+}
+.Colume {
+  margin-top: 100px !important;
 }
