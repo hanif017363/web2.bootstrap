@@ -24,8 +24,14 @@ h1.Title {
 }
 .Colume {
   margin-top: 100px !important;
-  transition: 1.3s;
+  transition: 1.2s;
 }
 .Colume:hover {
   transform: scale(1.1);
+}
+p.blog {
+  position: absolute;
+  top: 4090px !important;
+  left: 1080px !important;
+  color: black;
 }
