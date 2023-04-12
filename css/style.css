@@ -24,4 +24,8 @@ h1.Title {
 }
 .Colume {
   margin-top: 100px !important;
+  transition: 1.3s;
+}
+.Colume:hover {
+  transform: scale(1.1);
 }
