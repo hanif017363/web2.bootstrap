@@ -4,9 +4,9 @@ body {
 nav.navbar {
   background-color: transparent !important;
 }
-.navbar a {
+/* .navbar a {
   color: crimson !important;
-}
+} */
 .box_p {
   margin-left: 30px !important;
   margin-right: 30px !important;
@@ -21,6 +21,14 @@ h1.Title_text-center {
 }
 h1.Title {
   margin-top: 80px !important;
+}
+.a1 {
+  text-decoration: none !important;
+  color: rgb(186, 16, 50);
+}
+.a1:hover {
+  color: rgb(123, 21, 42) !important;
+  text-decoration: underline !important;
 }
 .Colume {
   margin-top: 100px !important;
